@@ -3,3 +3,7 @@ $^+c::SendInput 🤙
 $^+f::SendInput 🔥
 $^+k::SendInput 🆗
 $^+n::SendInput 👌
+$^+h::SendInput 🌶️
+$^+e::SendInput 👀
+$^+g::SendInput 😀
+$^+m::SendInput 😬
